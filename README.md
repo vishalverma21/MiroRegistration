@@ -47,9 +47,9 @@ git@github.com:vishalverma21/MiroRegistration.git
 
 2. Go to source folder in local machine
 
-Miro/Web
+MiroRegistration/Web
 
-3. Run "npm i" then " npx Cypress open " command in source folder " Miro/Web " and run Registration.Spec.ts
+3. Run "npm i" then " npx Cypress open " command in source folder " MiroRegistration/Web " and run Registration.Spec.ts
 
 
 ## Run all tests in DOCKER with headless chrome and video recording
@@ -60,7 +60,7 @@ git@github.com:vishalverma21/MiroRegistration.git
 
 2. Go to source folder in local machine
 
-Miro/Web
+MiroRegistration/Web
 
 3. Run below command to take a pull of docker image
 docker pull cypress/included:9.1.1
