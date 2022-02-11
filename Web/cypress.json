@@ -1,0 +1,11 @@
+{
+  "projectId": "xdnmix",
+  "chromeWebSecurity": false,
+  "reporter": "junit",
+  "reporterOptions": {
+    "mochaFile": "reports/output-[hash].xml",
+    "toConsole": true
+  },
+  "execTimeout": 60000,
+  "defaultCommandTimeout": 60000
+}
